@@ -27,7 +27,6 @@
 *.toc
 .#*
 .*.rej
-
 .DS_Store
 .idea
 .secret
@@ -40,7 +39,8 @@ Thumbs.db
 auto
 autom4te.cache
 tags
-
 vendor
 
+
+article.html
 
